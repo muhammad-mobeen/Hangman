@@ -1,7 +1,7 @@
 # Hangman
 In the game of Hangman, the computer chooses a word at random from a given list of words. This word is the answer. The player then tries to guess the word, by guessing one letter at a time. Whenever the user guesses a letter that is in the answer, all occurrences of that letter are revealed to the user. The game ends when the user has guessed every letter in the word before he reaches the allowed number of strikes. This program is an interactive Hangman game. The focus is to use and manipulate strings and loops.
 
-#### Overview
+## Overview
 
 In the game of Hangman, the computer chooses a word at random from a given list of words. This word is the
 answer. The player then tries to guess the word, by guessing one letter at a time. Whenever the user guesses a
@@ -9,12 +9,12 @@ letter that is in the answer, all occurrences of that letter are revealed to the
 has guessed every letter in the word before he reaches the allowed number of strikes. This program is an
 interactive Hangman game. The focus is to use and manipulate strings and loops.
 
-#### How to use
+## How to use
 
 1. You can simply download the Hangman.exe from the repository and run it.
 2. Or if you are afraid of .exe files than simply run the Hangman.cpp file in any compiler.
 
-#### Specifications and Features
+## Specifications and Features
 
 1. This project implies the concepts of loops, functions, and other pre-defined functions like rand() and some
     string library functions, etc.
@@ -35,6 +35,6 @@ interactive Hangman game. The focus is to use and manipulate strings and loops.
 11. In case the player successfully guesses the secret name, then the program displays a congratulations
     message.
 
-#### Console Output
+# Console Output
 
 ![Output](readme_assets/output.png)
